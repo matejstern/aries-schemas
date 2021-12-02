@@ -1,0 +1,8 @@
+{
+  "@context": {
+    "@version": 0.1,
+    "ex": "https://example.org/examples#",
+    "gid_uuid": "ex:gid_uuid",
+    "pub_key": "ex:pub_key"
+  }
+}
